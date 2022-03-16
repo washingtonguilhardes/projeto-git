@@ -20,3 +20,5 @@ Adiciona todas as alterações na Stage Area
 
 git config --global user.name "seu nome"
 git config --global user.email "seu@email.com"
+
+# Fim
