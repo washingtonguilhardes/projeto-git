@@ -27,4 +27,14 @@ Cria um commit das altareções que estao na  Stage Area
 ## git branch
 mostra todas as ramificações (branch) que foram criadas no projeto
 
-# Fim
+## git branch [nome do branch]
+cria um novo branch
+
+## git checkout [nome do branch]
+Altera os arquivos para o historico do branch passado
+
+## git merge [nome da branch]
+
+Junta as alteralçoes do branch passado como parametro para o branch que está atual no projeto
+
+# outra alteracao
