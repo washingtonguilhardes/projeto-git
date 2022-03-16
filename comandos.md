@@ -27,4 +27,7 @@ Cria um commit das altareções que estao na  Stage Area
 ## git branch
 mostra todas as ramificações (branch) que foram criadas no projeto
 
-# Fim
+# Adcionado uma nova alteração
+
+
+outra linha
