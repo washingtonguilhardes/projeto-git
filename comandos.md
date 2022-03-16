@@ -16,4 +16,7 @@ Adiciona um arquivo especifico para a Stage Area
 
 Adiciona todas as alterações na Stage Area
 
-## Alteracao
+## Adicionar email e nome nas configurações globais
+
+git config --global user.name "seu nome"
+git config --global user.email "seu@email.com"
